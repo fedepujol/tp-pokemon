@@ -1,0 +1,12 @@
+﻿.classpath
+.project
+.settings
+/src/main/xtend-gen
+/src/test/xtend-gen
+/target/
+target/src/test/generated-sources
+target/src/main/xtend-gen
+generated*
+bin
+*node_modules*
+/.metadata/
